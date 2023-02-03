@@ -2,5 +2,11 @@ name: Model Card
 description: Model Card
 itemType: template
 tags: []
-creation: {}
-metadata: {}
+creation:
+  template: null
+  __typename: InsightCreation
+  clonedFrom: null
+metadata:
+  team: null
+  __typename: InsightMetadata
+  publishedDate: null
